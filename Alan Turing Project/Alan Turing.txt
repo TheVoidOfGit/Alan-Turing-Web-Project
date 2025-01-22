@@ -104,7 +104,7 @@ sentenced to 12 months of hormone therapy. Now with a criminal record, he can no
 
 
 
-<a href="file:///C:\Users\void8\Downloads\Alan Turing Project\Citations"><img src="poopoo.png" alt="poopoo" >
+<a href="file:///C:\Users\void8\Downloads\Alan Turing Project\Citations.html"><img src="CiteButton.png" alt="Citations">
 </a>
 <center><p style="color:#cc00cc;"><h5>Copyright 2023, Created by Aeson Overman, Semester 2 Web Design Class A4, April 7, 2023</h5></footer>
 </HTML>
