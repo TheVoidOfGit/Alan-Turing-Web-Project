@@ -63,7 +63,7 @@
   display: table;
 }
 </style>
-    <title>African American Inventors</title>
+    <title>Alan Turing</title>
     </head>
     <Body bgcolor="lightblue" text="000000">
     <body>
